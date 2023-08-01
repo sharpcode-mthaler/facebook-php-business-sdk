@@ -36,6 +36,7 @@ class Api {
   /**
    * @var string
    */
+
   const VERSION = ApiConfig::APIVersion;
 
   /**
